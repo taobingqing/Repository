@@ -6,6 +6,8 @@ public class demo_01 {
         for(int a = 1 ;a<=10;a++){
             sum *= a;
         }
+
+        System.out.println(sum);
         System.out.println(sum);
     }
 }
